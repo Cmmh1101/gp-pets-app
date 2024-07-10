@@ -1,0 +1,15 @@
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/carlamontano/Desktop/code/cert-courses/C#/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
